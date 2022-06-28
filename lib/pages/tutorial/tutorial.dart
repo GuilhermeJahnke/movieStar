@@ -27,11 +27,12 @@ final pages = [
       iconColor: Colors.black,
       bubbleBackgroundColor: Colors.black,
       title: Text(
-        'Controle seus gastos',
+        'Encontre seus filmes favoritos',
+        textAlign: TextAlign.center,
         style: _fontHeaderStyle,
       ),
       body: Text(
-          'Comece hoje a controlar seus gastos  \ndiários e realizar consultas \ndiárias de seu score',
+          'Encontre com facilidade os seus filmes favoritos  \n com buscas por títulos ou categorias',
           textAlign: TextAlign.center,
           style: _fontDescriptionStyle),
       mainImage: Image.asset(
@@ -45,11 +46,12 @@ final pages = [
       iconColor: Colors.black,
       bubbleBackgroundColor: Colors.black,
       title: Text(
-        'Cadastre suas despesas',
+        'Encontre o filme Perfeito',
+        textAlign: TextAlign.center,
         style: _fontHeaderStyle,
       ),
       body: Text(
-          'Conseguindo ter fácilmente acesso aos  \nseus gastos diarios e mensais \nem diversos setores',
+          "Te ajudando a encontrar rapidamente \no filme perfeito para o momento perfeito",
           textAlign: TextAlign.center,
           style: _fontDescriptionStyle),
       mainImage: Image.asset(
