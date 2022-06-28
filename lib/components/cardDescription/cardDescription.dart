@@ -436,17 +436,15 @@ Widget _buildRating({item}) {
                   image: NetworkImage(image), fit: BoxFit.cover),
               borderRadius: BorderRadius.all(Radius.circular(50.0))),
         ),
-        title: Row(
-          children: <Widget>[
-            SizedBox(width: 8.0),
-            Text(
-              date,
-              style: TextStyle(
-                fontSize: 12.0,
-                color: Colors.white,
-              ),
-            )
-          ],
+        title: Padding(
+          padding: const EdgeInsets.only(bottom: 8.0, top: 10),
+          child: Text(
+            formatDate(date),
+            style: TextStyle(
+              fontSize: 12.0,
+              color: Colors.white,
+            ),
+          ),
         ),
         subtitle: Text(
           details,

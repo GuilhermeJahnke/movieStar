@@ -13,6 +13,12 @@ formatYear(date) {
   return formattedDate;
 }
 
+formatDate(date) {
+  var data = DateTime.parse(date);
+  var formattedDate = new DateFormat("dd/MM/yyyy HH:mm").format(data);
+  return formattedDate;
+}
+
 Future formatCategory(date) async {
   SharedPreferences prefs = await SharedPreferences.getInstance();
   var categoriesString;
