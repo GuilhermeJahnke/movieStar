@@ -44,6 +44,11 @@ O movieStar foi desenvolvido a partir de uma ideia proposta pela Mobile2You, que
 * [Flutter 2.8.1](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.8.1-stable.zip) - O framework usado para desenvolvimento do app
 * [The Movie DB](https://www.themoviedb.org/documentation/api) - API pública do the movie DB para os filtros e para a listagem dos filmes
 
+## ✨ Release
+
+O MovieStar tem uma versão beta pronta para você testar, acesse:
+* [MovieStar](https://github.com/GuilhermeJahnke/movieStar/releases/tag/MovieStar)
+
 ## 📌 Versão
 
 Foi utilizado a versão [2.8.1](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.8.1-stable.zip) do flutter para o desenvolvimento do projeto! 
