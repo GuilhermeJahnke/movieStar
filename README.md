@@ -1,6 +1,6 @@
 # MovieStar
 
-Desenvolvido para encontrar com facilidade os seus filmes favoritos, com buscas por titulos ou categorias, te ajudando a encontrar rapidamente o filme perfeito para o momento perfeito.
+Desenvolvido para encontrar com facilidade os seus filmes favoritos, com buscas por títulos ou categorias, te ajudando a encontrar rapidamente o filme perfeito para o momento perfeito.
 
 ## 🚀 Começando
 
@@ -10,7 +10,7 @@ Consulte **Pré-requisitos** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
-Você ira precisar instalar o flutter em sua maquina, recomendo utilizar esta versão!
+Você ira precisar instalar o flutter em sua máquina, recomendo utilizar esta versão!
 
 ```
 Flutter 2.8.1
@@ -18,7 +18,7 @@ Flutter 2.8.1
 
 ### 🔧 Instalação
 
-Instale o flutter para rodar o projeto
+Instale o flutter para rodar o projeto.
 
 Tutorial de instalação:
 
@@ -32,12 +32,12 @@ Após efetuar a instalação corretamente, rode:
 flutter run
 ```
 
-Quando ele terminar o processo de debug, você poderá começar a usufruir do incrivel movieStar!
+Quando ele terminar o processo de debug, você poderá começar a usufruir do incrível movieStar!
 
 
 ## 📦 Desenvolvimento
 
-O movieStar foi desenvolvido a partir de uma ideia proposta pela Mobile2You, que me deu inspiração para criar algo que facilitasse a procura de filmes naqueles dias chuvosos, por meio dos titulos ou das categorias dos filmes. Tornando mais facil, rapido e pratico a escolha do filme perfeito!
+O movieStar foi desenvolvido a partir de uma ideia proposta pela Mobile2You, que me deu inspiração para criar algo que facilitasse a procura de filmes naqueles dias chuvosos, por meio dos títulos ou das categorias dos filmes. Tornando mais fácil, rápido e prático a escolha do filme perfeito!
 
 ## 🛠️ Construído com
 
